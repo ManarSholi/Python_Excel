@@ -1,0 +1,2 @@
+1. pipenv install openpyxl
+2. pipenv install pylint --dev
